@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NAVALIPAVITHRA
+- 👋 Ciao, I’m @NAVALIPAVITHRA
 - 👀 I’m interested in Data Science | Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate where data and fashion combines together.
